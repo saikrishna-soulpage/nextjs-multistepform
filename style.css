@@ -1,0 +1,8 @@
+.container-fluid {
+  min-height: 100vh;
+  background: darkviolet;
+}
+.card {
+  margin-top: 3%;
+  background: cyan;
+}

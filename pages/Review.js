@@ -34,7 +34,7 @@ const Review = ({ setForm, formData, navigation }) => {
         <h1>Details</h1>
         <button
           className="btn btn-primary btn-lg"
-          onClick={() => go("contact")}
+          onClick={() => go("details")}
         >
           Edit
         </button>
